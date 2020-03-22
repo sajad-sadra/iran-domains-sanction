@@ -191,7 +191,6 @@ cdn.pearmill.com
 intljs.rmtag.com
 consumer.pearmill.com
 track.customer.io
-production.cc-propeller.com
 www.javascript.com
 registry.docker.io
 dnsdumpster.com
