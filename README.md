@@ -10,5 +10,4 @@ Simple domain that can be easily use in <a href="https://github.com/sajad-sadra/
 Domains that must be routed to the static IP that has been writed against them.
 
 ### gvsub.txt (not important)
-Subdomain of googlevideo 
 Subdomains of googlevideo are baned in Iran
