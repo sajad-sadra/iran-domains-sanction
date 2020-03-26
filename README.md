@@ -1,5 +1,5 @@
 # domains-sanction
-This repository includes domain of a website that can ban Iran(Islamic republic of) because of US-sanction.<br />
+This repository includes domain of a website that was banned in Iran(Islamic republic of) because of US-sanction.<br />
 Only <code>domain.txt</code> is public usefull.
 
 ## domain.txt
