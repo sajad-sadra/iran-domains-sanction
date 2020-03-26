@@ -11,4 +11,4 @@ Domains that must be routed to the static IP that has been writed against them.
 
 ### gvsub.txt (not important)
 Subdomain of googlevideo 
-Because of this domains are baned in Iran
+Subdomains of googlevideo are baned in Iran
