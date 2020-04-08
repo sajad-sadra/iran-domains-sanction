@@ -231,3 +231,5 @@ milkshake.app
 api-gateway.trello.com
 services9.arcgis.com
 cdn.arcgis.com
+www.ibm.com
+tricksinfo.net
