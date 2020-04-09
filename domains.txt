@@ -233,3 +233,13 @@ services9.arcgis.com
 cdn.arcgis.com
 www.ibm.com
 tricksinfo.net
+o1.email-sg.coursera.org
+nebraska.coursera.org
+tools.coursera.org
+legal.coursera.org
+illinois.coursera.org
+utm.coursera.org
+careers.coursera.org
+coursera.org
+www.coursera.org
+lua9b20g37-3.algolianet.com
