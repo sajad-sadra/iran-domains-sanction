@@ -265,3 +265,4 @@ dev10.gradle.org
 dev85.gradle.org
 docs.gradle.org
 blog.gradle.org
+maps.googleapis.com
