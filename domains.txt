@@ -292,3 +292,8 @@ gitiserver.slack.com
 app.slack.com
 edgeapi.slack.com
 idaas.iam.ibm.com
+www.nvidia.com
+www.mongodb.com
+repo.mongodb.com
+static.mongodb.com
+webassets.mongodb.com

@@ -7,3 +7,4 @@ environment-events.katacoda.com:176.9.122.183
 katacoda.com:176.9.122.183
 www.codecademy.com:185.134.23.171
 codecademy.com:104.17.212.81
+repo.mongodb.org:176.9.122.215

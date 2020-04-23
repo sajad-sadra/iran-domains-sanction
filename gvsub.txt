@@ -143,3 +143,6 @@ r6---sn-vh5ouxa-hjuz.googlevideo.com
 r6---sn-hju7en7k.googlevideo.com
 r2---sn-5hne6ns6.googlevideo.com
 r3---sn-5hnekn7z.googlevideo.com
+r1---sn-vh5ouxa-hjus.googlevideo.com
+r1---sn-hju7en7r.googlevideo.com
+r5---sn-hju7en7r.googlevideo.com
