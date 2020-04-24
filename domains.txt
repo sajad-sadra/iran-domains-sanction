@@ -297,3 +297,4 @@ www.mongodb.com
 repo.mongodb.com
 static.mongodb.com
 webassets.mongodb.com
+ookla.bintray.com
