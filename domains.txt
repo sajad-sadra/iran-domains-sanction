@@ -1,3 +1,4 @@
+docker.io
 hub.docker.com
 id.docker.com
 download.docker.com
@@ -16,7 +17,6 @@ cdn-registry-1.docker.io
 index.docker.io
 dtr-internal.caas.docker.io
 autobuilds-staging.docker.io
-docker.io
 www.intel.com
 intel.com
 developers.google.com
@@ -134,7 +134,6 @@ kr.vuejs.org
 api-js.mixpanel.com
 www.bugatti.com
 www.heroku.com
-player.vimeo.com
 www.envoyproxy.io
 chaseadams.io
 www.chaseadams.io
@@ -304,5 +303,9 @@ images.nvidia.com
 gfwsl.geforce.com
 us.download.nvidia.com
 user-content.gitlab-static.net
-www.youidraw.com
 resources.infosecinstitute.com
+content.googleapis.com
+c.trello.com
+www.youidraw.com
+kodekloud.com
+server.arcgisonline.com
