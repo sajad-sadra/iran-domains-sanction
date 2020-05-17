@@ -333,3 +333,5 @@ appspot.com.storage.googleapis.com
 c.storage.googleapis.com
 fcm.googleapis.com
 gcr.io
+registry.npmjs.org
+www.geforce.co.uk
