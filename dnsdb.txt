@@ -11,3 +11,4 @@ repo.mongodb.org:176.9.122.215
 abs.twimg.com:93.184.220.70
 dldir1.qq.com:176.9.122.183
 wallpapersite.com:104.26.6.21
+us.download.nvidia.com:176.9.122.176
