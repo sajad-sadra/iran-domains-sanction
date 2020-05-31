@@ -23,7 +23,6 @@ developers.google.com
 developer.google.com
 developer.android.com
 nuxtjs.org
-zeplin.io
 clockify.me
 api.clockify.me
 stomp.clockify.me
@@ -89,14 +88,6 @@ profiles.tagger.opecloud.com
 storage.googleapis.com
 community.grafana.com
 forum.grafana.com
-app.zeplin.io
-cdn.zeplin.io
-www.zeplin.io
-api.zeplin.io
-support.zeplin.io
-pkg.zeplin.io
-img.zeplin.io
-blog.zeplin.io
 cdn.mxpnl.com
 app.avocode.com
 avocode.com
@@ -290,7 +281,6 @@ edgeapi.slack.com
 idaas.iam.ibm.com
 www.nvidia.com
 www.mongodb.com
-repo.mongodb.com
 static.mongodb.com
 webassets.mongodb.com
 ookla.bintray.com
@@ -355,3 +345,4 @@ gekko.spiceworks.com
 edge.spiceworksstatic.com
 gala.spiceworks.com
 img.onesignal.com
+websiteforstudents.com
