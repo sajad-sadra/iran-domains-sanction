@@ -346,3 +346,8 @@ edge.spiceworksstatic.com
 gala.spiceworks.com
 img.onesignal.com
 websiteforstudents.com
+cdnmrtehran.ir
+mrtehran.com
+www.geeksforgeeks.org
+www91.intel.com
+starget.intel.com
