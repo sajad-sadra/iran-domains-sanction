@@ -351,3 +351,5 @@ mrtehran.com
 www.geeksforgeeks.org
 www91.intel.com
 starget.intel.com
+www.twilio.com
+docs.gitlab.com
