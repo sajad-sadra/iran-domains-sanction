@@ -353,3 +353,8 @@ www91.intel.com
 starget.intel.com
 www.twilio.com
 docs.gitlab.com
+www.smashingmagazine.com
+optinmonster.com
+www.loadbalancer.org
+kb.objectrocket.com
+oauth2.googleapis.com
