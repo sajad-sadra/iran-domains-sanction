@@ -1,16 +1,16 @@
 **Sanction** Web Services
 ====================
-[This File](https://github.com/sajad-sadra/domains-sanction/blob/master/sanction.txt) includes domains of websites that was banned in **Iran**(Islamic republic of) due to **US sanction**.
+[This File](https://github.com/sajad-sadra/domains-sanction/blob/master/sanction.txt) includes domains of the websites that was banned in **Iran**,Islamic republic of due to the **US sanction**.
 
 
 
 **Filter** Web Services
 -------------------
-[This File](https://github.com/sajad-sadra/domains-sanction/blob/master/filter.txt) includes some of domains that are blocked in Iran due to Internet governance laws.
+[This File](https://github.com/sajad-sadra/domains-sanction/blob/master/filter.txt) includes some of the domains that are blocked in Iran due to the Internet governance laws.
 
-It is not complete list of blocked services.
-Just some science usefull web sites.
+It is not a complete list of blocked services.
+Just some scientific usefull websites.
 
-For example it's not include below context :
+For example it's not included below context :
 + Pornography
 + Politic
