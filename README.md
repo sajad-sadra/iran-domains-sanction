@@ -1,13 +1,16 @@
-# domains-sanction
-This repository includes domain of websites that was banned in Iran(Islamic republic of) because of US-sanction.<br />
-Only <code>domain.txt</code> is publicly usefull.
-
-## domain.txt
-Simple domain that can be easily use in <a href="https://github.com/sajad-sadra/dnsifyproxy">dnsifyproxy</a>
+**Sanction** Web Services
+====================
+[This File](https://github.com/sajad-sadra/domains-sanction/blob/master/sanction.txt) includes domains of websites that was banned in **Iran**(Islamic republic of) due to **US sanction**.
 
 
-### dnsdb.txt (not important)
-Domains that must be routed to the static IP that has been writed against them.
 
-### gvsub.txt (not important)
-Subdomains of googlevideo are banned in Iran
+**Filter** Web Services
+-------------------
+[This File](https://github.com/sajad-sadra/domains-sanction/blob/master/filter.txt) includes some of domains that are blocked in Iran due to Internet governance laws.
+
+It is not complete list of blocked services.
+Just some science usefull web sites.
+
+For example it's not include below context :
++ Pornography
++ Politic

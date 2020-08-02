@@ -1,4 +1,3 @@
-local.gozar
 *.twimg.com
 *.twitter.com
 *.quora.com
@@ -25,7 +24,6 @@ youtu.be
 *.facebook.com
 *.js.org
 *.123rf.com
-dns.gozar
 *.wordpress.com
 *.giphy.com
 *.riffsy.com
