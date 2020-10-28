@@ -206,3 +206,5 @@ www.spec.org
 community.appian.com
 *.keystonejs.com
 *.computernetworkingnotes.com
+*.adobe.com
+*.softperfect.com
