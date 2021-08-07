@@ -98,3 +98,7 @@ cdn.shopify.com
 *.tdesktop.com
 *.krxd.net
 *.free.fr
+*.couchsurfing.com	
+*.torproject.org	
+*.linktr.ee	
+*.hackerone.com	
