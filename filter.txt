@@ -1,4 +1,3 @@
-*.twimg.com
 *.twitter.com
 *.quora.com
 *.vimeo.com
@@ -98,7 +97,14 @@ cdn.shopify.com
 *.tdesktop.com
 *.krxd.net
 *.free.fr
-*.couchsurfing.com	
-*.torproject.org	
-*.linktr.ee	
-*.hackerone.com	
+*.couchsurfing.com
+*.torproject.org
+*.linktr.ee
+*.hackerone.com
+bbc.co.uk
+repo.mongodb.org
+*.argovpn.com
+*.bbc.co.uk
+*.bbci.co.uk
+*.smartdnsproxy.com
+*.twimg.com
