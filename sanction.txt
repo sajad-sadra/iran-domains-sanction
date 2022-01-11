@@ -168,6 +168,10 @@ itectec.com
 datastudio.google.com
 registry.npmjs.org
 docs.portworx.com
+open.spotify.com
+app.clickup.com
+shubhamdipt.com
+*.shubhamdipt.com
 *.tricksinfo.net
 *.www.youidraw.com
 *.b.siftscience.com
